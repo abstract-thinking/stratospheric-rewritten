@@ -1,0 +1,2 @@
+1. Containerized App und auf DockerHub deployt.
+2. Resourcen müssen bei Amazon bereitgestellt werden, wirkt komplex.
