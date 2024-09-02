@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/stratospheric-rewritten.iml" filepath="$PROJECT_DIR$/.idea/stratospheric-rewritten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dummy-cdk-app/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/dummy-cdk-app/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapters/chapters.iml" filepath="$PROJECT_DIR$/chapters/chapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dummy-cdk-app/src/dummy-cdk-app.iml" filepath="$PROJECT_DIR$/dummy-cdk-app/src/dummy-cdk-app.iml" />
     </modules>
   </component>
 </project>
