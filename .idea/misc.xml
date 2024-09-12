@@ -5,7 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/com.example.stratospheric/pom.xml" />
-        <option value="$PROJECT_DIR$/cdk/pom.xml" />
       </list>
     </option>
   </component>
